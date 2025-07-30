@@ -1,4 +1,5 @@
 # apnaCollege
 this is my first git repository
 <br>
-THE AUTHOR IS - Prashant Dubey 
+THE AUTHOR IS - Prashant Dubey (B.c.ag)
+
